@@ -29,7 +29,7 @@ git log
 
 Удаление файла в Windows:
 ```sh
-del <filename>
+del <filename> 
 ```
 
 Отображение всех веток. Выводит все ветки на экран.
